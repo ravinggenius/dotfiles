@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-git submodule update --init
-
 ~/dotfiles/_/zsh/INSTALL
 ~/dotfiles/_/git/INSTALL
 ~/dotfiles/_/vim/INSTALL

@@ -1,8 +1,7 @@
 ## Installation
 
-1. `$ mkdir -p ~/dotfiles/_`
-2. `$ git clone git@github.com:ravinggenius/dotfiles.git ~/dotfiles/_`
-3. `$ ~/dotfiles/INSTALL`
+1. `$ git clone --origin github --recursive git://github.com/ravinggenius/dotfiles.git ~/dotfiles/_`
+2. `$ ~/dotfiles/INSTALL`
 
 ## Reference
 
